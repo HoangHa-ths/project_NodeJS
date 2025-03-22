@@ -1,0 +1,24 @@
+{
+  "name": "package.js",
+  "version": "1.0.0",
+  "description": "file package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoangHa-ths/project_NodeJS.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "HoangHa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoangHa-ths/project_NodeJS/issues"
+  },
+  "homepage": "https://github.com/HoangHa-ths/project_NodeJS#readme"
+}
+
